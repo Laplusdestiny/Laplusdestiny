@@ -7,12 +7,13 @@
 
 - 💬 Ask me about **python, time-series data analysis, ML**
 
-- 📫 How to reach me **https://linktr.ee/Laplusdestiny**
+- 📫 How to reach me more **https://linktr.ee/Laplusdestiny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/laplusdestiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laplusdestiny" height="30" width="40" /></a>
 <a href="https://kaggle.com/laplusdestiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="laplusdestiny" height="30" width="40" /></a>
+<a href="https://misskey.io/@Laplusdestiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/misskey-dev/assets/main/misskey.svg" height="30"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
