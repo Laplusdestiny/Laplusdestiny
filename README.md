@@ -9,22 +9,22 @@
 
 - 📫 How to reach me more **https://linktr.ee/Laplusdestiny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Connect with me
+
 <a href="https://twitter.com/laplusdestiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laplusdestiny" height="30" width="40" /></a>
 <a href="https://kaggle.com/laplusdestiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="laplusdestiny" height="30" width="40" /></a>
 <a href="https://misskey.io/@Laplusdestiny" target="blank"><img align="center" src="https://github.com/misskey-dev/assets/blob/main/public/icon.png?raw=true" height="50"></a>
-</p>
-
-<p align="left">
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Main</h4>
-[![My Skills](https://skillicons.dev/icons?i=py,aws,git,gitlab,linux,md,postgres,sqlite,vscode,&perline=3&theme=dark)](https://skillicons.dev)
 
 
-<h4 align="left">Sub (or studying)</h4>
-[![My Skills](https://skillicons.dev/icons?i=c,vue,dynamodb,nuxtjs,selenium,tensorflow,ts,js,vue&perline=3)](https://skillicons.dev)
-</p>
+## Languages and Tools
 
+### Main
+![My Skills](https://skillicons.dev/icons?i=py,md,linux,postgres,aws,git,gitlab,sqlite,vscode&perline=6&theme=dark)
+
+
+### Sub (or studying)
+[![My Skills](https://skillicons.dev/icons?i=c,vue,dynamodb,nuxtjs,selenium,tensorflow,ts,js&perline=6)](https://skillicons.dev)
+
+### Language stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laplusdestiny&show_icons=true&locale=en&layout=compact" alt="laplusdestiny" /></p>
 
